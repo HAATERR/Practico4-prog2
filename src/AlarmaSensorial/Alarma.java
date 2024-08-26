@@ -1,3 +1,5 @@
+package AlarmaSensorial;
+
 import java.util.ArrayList;
 
 public class Alarma {

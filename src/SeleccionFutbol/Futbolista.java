@@ -1,3 +1,5 @@
+package SeleccionFutbol;
+
 import java.time.LocalDateTime;
 
 public class Futbolista extends Persona {

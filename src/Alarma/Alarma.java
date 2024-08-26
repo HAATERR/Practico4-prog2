@@ -1,3 +1,5 @@
+package Alarma;
+
 public class Alarma {
     private boolean vidrio;
     private boolean puerta;

@@ -1,3 +1,5 @@
+package EmpresaSueldos;
+
 public class EmpleadoXHorasExtras extends Empleado {
     private int horasExtras;
     private double montoExtra;

@@ -1,3 +1,5 @@
+package EmpresaSueldos;
+
 public class EmpleadoXComision extends Empleado{
     private double comision;
     private int cantVentas;

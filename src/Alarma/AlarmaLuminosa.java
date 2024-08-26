@@ -1,3 +1,5 @@
+package Alarma;
+
 public class AlarmaLuminosa extends Alarma {
     private Luz luz;
     private Timbre timbre;
